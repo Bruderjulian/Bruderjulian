@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bruderjulian
+- 👀 I’m interested in programming and Minecraft
+- 🌱 I’m currently learning Java and C/C++
