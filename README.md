@@ -10,7 +10,8 @@
 
 ## Skills:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,vercel,discord,vscode?perline=4" /> 
+  <img src="https://skillicons.dev/icons?i=git,github,discord,vscode,arduino?perline=4" /> 
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,deno,react,express,java,gradle?perline=4" /> 
 </div>
 
 ## Stats:
