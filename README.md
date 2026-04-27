@@ -2,11 +2,14 @@
 
 ![Header](https://github.com/Bruderjulian/Bruderjulian/blob/main/header.png)
 
-- 👋 Hi, I’m @Bruderjulian
+A 16 year old student trying to navigating in forever changing world, while hacking on stuff for my hobbies. 
+
 - 🌱 I’m currently learning Javascript/Typescript, Java, C!
 - 💪 I’m very proficient in JS and Java
 - 🎮 I play Minecraft (mostly), Satisfactory, KSP
 - ⚔️ I run a small but active Minecraft Server with many self-written plugins!
+- 
+Thank you for being here and your support! ✨
 
 ## Skills:
 <div align="left">
